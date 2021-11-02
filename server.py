@@ -32,6 +32,7 @@ app.debug = True
 # {
 #    'a':{'x':1, 'y':2},
 #    'b':{'x':2, 'y':3}
+#    'entity':'entry'
 # }
 
 class World:
